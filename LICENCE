@@ -1,33 +1,38 @@
 # Clearly Team Project Protection License (CTPPL)
 
-Version 1.0 - November 23, 2025
+Version 1.1 - November 23, 2025
 
-Copyright (c) Clearly Team (KilixKilik)
+Copyright (c) Clearly Team and its contributors
 
 ## Terms and Conditions for Use, Modification, and Distribution
 
 ### 1. Definitions
-- "This License" refers to the Clearly Team Project Protection License version 1.0
+- "This License" refers to the Clearly Team Project Protection License version 1.1
 - "The Work" refers to the software and associated documentation covered by this license
 - "You" refers to the licensee
-- "Clearly Team" refers to the original copyright holder
+- "Clearly Team" refers to the collective group of contributors and original copyright holders
+- "Contributor" refers to any member of Clearly Team who contributes to the licensed work
 
 ### 2. License Grant
 Clearly Team grants you a worldwide, royalty-free, non-exclusive license to use, modify, and distribute the Work under the following conditions:
 
 ### 3. Conditions
 - You must include this license notice in all copies or substantial portions of the Work
-- You must include attribution to "Clearly Team" and the original author "KilixKilik"
-- Commercial use is permitted with attribution
+- You must include attribution to "Clearly Team" and acknowledge the contributing authors
+- Commercial use is permitted with proper attribution
 - Modification is allowed, but modified versions must include this license and attribution
-- Distribution of modified versions must clearly state that changes were made
+- Distribution of modified versions must clearly state that changes were made and identify the original contributors
+- All members of Clearly Team retain rights to use, modify, and distribute the Work under this license
 
-### 4. Restrictions
-- No patent litigation against the original author
+### 4. Contributor Rights
+- Each member of Clearly Team may independently use, modify, distribute, and license their contributions
+- Contributors may add their individual attribution to the copyright notice
+- Contributors retain ownership of their specific contributions
+
+### 5. Restrictions
+- No patent litigation against any contributor
 - No use of Clearly Team's trademarks without permission
 - The Work is provided "as is" without warranties
 
-### 5. Disclaimer
+### 6. Disclaimer
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-Git: KilixKilik
